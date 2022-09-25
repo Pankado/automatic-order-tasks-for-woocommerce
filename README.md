@@ -50,6 +50,10 @@ Yes! Feel free to offer suggestions by emailing contact@webirium.com. While we m
 
 Please refer to the WordPress support forum for this plugin to report any bug or performance related issues. A service with a more comprehensive level of support will be made available at a later date.
 
+### Can I see the source code?
+
+Yes, the source code can be found at https://github.com/pankado/automatic-order-tasks-for-woocommerce/
+
 ## Changelog ##
 
 ### 1.0 ###
